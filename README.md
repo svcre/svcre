@@ -2,11 +2,12 @@
 
 **My name is Mathilde and i'm a web developer based in France.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 
+### Currently working on...
+- [ ] 💻 an app to meet and organize outings with nearby hikers
+- [ ] 🕹️ a 2D view video game
+- [ ] 🌱 learning Three.js
+- [ ] 🌱 learning C#
 
 ### My skills
 
