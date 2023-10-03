@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**My name is Mathilde and i'm a web developer based in France.**
+**My name is Mathilde and i'm a web developer based in France.** I mainly work with frontend tools, but I am learning to become a fullstack developer. 
 
 
 ### Currently working on...
